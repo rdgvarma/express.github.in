@@ -1,0 +1,11 @@
+body{
+    background-color: darkgrey;
+
+}
+h2{
+    color: deepskyblue;
+}
+p{
+    color: goldenrod;
+    font: 1em sans-serif;
+}
