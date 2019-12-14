@@ -1,0 +1,21 @@
+express js
+----------
+installing package.json (npm init -y)
+installing express js (npm i express)
+installing nodemon (npm i -D nodemon)
+	-D for development server.
+	package.json
+	------------
+	 "scripts": {
+    "start": "node index",
+    "dev":"nodemon index"
+     },
+
+	to run nodemon (npm run dev)
+installing moment (npm i moment)
+	it is used for dates
+
+# const router = express.Router();  used when route is seperated we can use instead of app.
+# post methord (request body we need to have BODY PARSER MIDDLEWARE )
+installation forgenerating random ID (npm i uuid)
+installing express handlebars (npm i express-handlebars)
